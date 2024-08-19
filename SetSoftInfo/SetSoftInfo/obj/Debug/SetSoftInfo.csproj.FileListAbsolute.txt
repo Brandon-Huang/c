@@ -1,0 +1,9 @@
+C:\Users\booska\Downloads\PB1228 王者歸來-C#完全開發範例集\MR\01\005\SetSoftInfo\SetSoftInfo\bin\Debug\SetSoftInfo.exe.config
+C:\Users\booska\Downloads\PB1228 王者歸來-C#完全開發範例集\MR\01\005\SetSoftInfo\SetSoftInfo\bin\Debug\SetSoftInfo.exe
+C:\Users\booska\Downloads\PB1228 王者歸來-C#完全開發範例集\MR\01\005\SetSoftInfo\SetSoftInfo\bin\Debug\SetSoftInfo.pdb
+C:\Users\booska\Downloads\PB1228 王者歸來-C#完全開發範例集\MR\01\005\SetSoftInfo\SetSoftInfo\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\booska\Downloads\PB1228 王者歸來-C#完全開發範例集\MR\01\005\SetSoftInfo\SetSoftInfo\obj\Debug\SetSoftInfo.Properties.Resources.resources
+C:\Users\booska\Downloads\PB1228 王者歸來-C#完全開發範例集\MR\01\005\SetSoftInfo\SetSoftInfo\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\booska\Downloads\PB1228 王者歸來-C#完全開發範例集\MR\01\005\SetSoftInfo\SetSoftInfo\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\booska\Downloads\PB1228 王者歸來-C#完全開發範例集\MR\01\005\SetSoftInfo\SetSoftInfo\obj\Debug\SetSoftInfo.exe
+C:\Users\booska\Downloads\PB1228 王者歸來-C#完全開發範例集\MR\01\005\SetSoftInfo\SetSoftInfo\obj\Debug\SetSoftInfo.pdb
